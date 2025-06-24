@@ -40,7 +40,8 @@ I'm a passionate front-end web developer who loves building responsive, user-fri
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurhassan45&layout=compact&theme=tokyonight)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nurhassan45&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Nurhassan45&theme=tokyonight)
+
 
 
 ---
