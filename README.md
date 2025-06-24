@@ -18,9 +18,10 @@ I'm a passionate Front-End Developer with hands-on experience in building respon
 
 ## 📊 GitHub Stats
 
-![Nur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Nur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nurhassan45&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurhassan45&layout=compact&theme=radical)
+
 
 ## 🧰 Projects
 
