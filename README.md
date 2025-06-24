@@ -14,7 +14,7 @@ I'm a passionate Front-End Developer with hands-on experience in building respon
 - 🔭 I’m currently working on improving my full-stack skills
 - 🌱 I’m learning advanced backend development with Express.js and MongoDB
 - 🤝 I’m looking to collaborate on open-source React projects
-- 📫 How to reach me: [your-email@example.com] or [LinkedIn](#)
+- 📫 How to reach me: [nurhassanrabbi150@gmail.com] or [LinkedIn](#)
 
 ## 📊 GitHub Stats
 
