@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://i.ibb.co/NnpzSzK/banner.jpg" alt="Banner" style="width:100%;" />
+<img src="https://github.com/Nurhassan45/Nurhassan45/blob/main/github-header-image%20(1).png" alt="Banner" style="width:100%;" />
 
 # 👋 Hello, I'm Nur Hassan Rabbi
 ### 💻 Front-End Developer | React & JavaScript Enthusiast
